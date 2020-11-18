@@ -1,3 +1,5 @@
 Test Git Lifecycle workflow
+Second line
 Third line
 Fourth line
+Fifth line
