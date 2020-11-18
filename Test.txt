@@ -1,3 +1,4 @@
 Test Git Lifecycle workflow
 New line added
 Third line
+Final line
